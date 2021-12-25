@@ -1,7 +1,7 @@
-###create a connection to the database sql using node.js && express.js
+### create a connection to the database sql using node.js && express.js
 
-##create a users table in the database
-#create controller for the users table:
+## create a users table in the database
+# create controller for the users table:
 
 SELECT all users from the users table (getAllUsers)
 SELECT a user by id from the users table (getUserById)
