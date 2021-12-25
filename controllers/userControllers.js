@@ -1,6 +1,4 @@
-
 const database = require("../dbService");
-
 const allControllers = {};
 
 //add ome user
